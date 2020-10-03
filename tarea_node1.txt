@@ -1,0 +1,6 @@
+Instrucciones:
+- Desarrollar el siguiente esquema de modelo no relacional de acuerdo a las instrucciones encontrados en el pdf adjuntado.
+- Fecha de inicio: Sábado 26 de Septiembre.
+- Fecha de entrega: Jueves 01 de Octubre hasta las 23:59.
+- Entregables: Enviar link de su repositorio a mi correo: mchamorro@laescala.cl con su nombre completo y rut.
+- Plus: Quienes cumplan con las tareas correctamente tendrán 05 décimas por cada una.
